@@ -1,0 +1,6 @@
+{
+  "name": "Tn Doc scanner",
+  "description": "A premium, unlimited offline document scanner and PDF creator with secure local storage and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

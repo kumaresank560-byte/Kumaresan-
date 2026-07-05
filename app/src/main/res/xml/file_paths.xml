@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="scanned_pages" path="scanned_pages/" />
+    <files-path name="documents" path="documents/" />
+    <files-path name="raw_scans" path="raw_scans/" />
+    <cache-path name="cache" path="." />
+</paths>
